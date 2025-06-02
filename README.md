@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Ryan
 
-## About Me
-🎓 Computer Science Student passionate about software development
-🌱 Currently learning and exploring new technologies
-💻 Focused on building practical applications
-🤝 Open to collaborating on interesting projects
+## 👨‍💻 About Me
+- 🎓 Computer Science Student passionate about software development
+- 🌱 Currently learning and exploring new technologies
+- 💻 Focused on building practical applications
+- 🤝 Open to collaborating on interesting projects
 
 ## 🛠️ Tech Stack
 
