@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm SemiAutomat1c
+# Hi there! 👋 I'm Ryan
 
 ## About Me
 🎓 Computer Science Student passionate about software development
@@ -30,7 +30,7 @@
 - 💰 [Paluwagan System](https://github.com/SemiAutomat1c/paluwagan-system) - A digital implementation of the traditional Filipino savings system
 
 ## 📈 Activity Graph
-![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=SemiAutomat1c&theme=react-dark)
+[![SemiAutomat1c's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SemiAutomat1c&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🤝 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SemiAutomat1c)
