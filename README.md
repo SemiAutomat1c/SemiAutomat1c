@@ -30,39 +30,10 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SemiAutomat1c&show_icons=true&theme=tokyonight)
 
 ## 🌟 Featured Projects
+- 📚 [BookHub Clean](https://github.com/SemiAutomat1c/bookhub-clean) - A modern book management system built with clean architecture principles
+- 🏪 [POS](https://github.com/SemiAutomat1c/POS) - Point of Sale system for efficient business transactions
+- 💰 [Paluwagan System](https://github.com/SemiAutomat1c/paluwagan-system) - A digital implementation of the traditional Filipino savings system
 
-### 📚 BookHub Clean
-[GitHub Repository](https://github.com/SemiAutomat1c/bookhub-clean)  
-A modern book management system built with clean architecture principles.
-- **Technologies**: Laravel, PHP, MySQL
-- **Key Features**:
-  - User-friendly interface
-  - Book categorization and search functionality
-  - User authentication and management
-
-![BookHub Clean Screenshot](link_to_screenshot)
-
-### 🏪 POS
-[GitHub Repository](https://github.com/SemiAutomat1c/POS)  
-Point of Sale system for efficient business transactions.
-- **Technologies**: Next.js, TypeScript
-- **Key Features**:
-  - Real-time transaction processing
-  - Inventory management
-  - Sales reporting
-
-![POS Screenshot](link_to_screenshot)
-
-### 💰 Paluwagan System
-[GitHub Repository](https://github.com/SemiAutomat1c/paluwagan-system)  
-A digital implementation of the traditional Filipino savings system.
-- **Technologies**: PHP, MySQL
-- **Key Features**:
-  - Group savings management
-  - User contributions tracking
-  - Automated payout calculations
-
-![Paluwagan System Screenshot](link_to_screenshot)
 ## 📈 Activity Graph
 [![SemiAutomat1c's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SemiAutomat1c&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
